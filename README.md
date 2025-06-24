@@ -33,12 +33,13 @@ This is **my first machine learning project from scratch** where I trained my ow
 ---
 
 ## 🛠️ Installation
-
+* You have to download the dataset
+  
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sentiment-tool.git
-cd sentiment-tool
+git clone https://github.com/pH4Nt0mmmy/b_projects.git
+cd b_projects
 ```
 
 ### 2. Create virtual environment (optional but recommended)
@@ -51,19 +52,7 @@ source venv/bin/activate  # or venv\Scripts\activate (Windows)
 
 
 
-### 3. Folder Structure
 
-```
-sentiment-tool/
-├── model/
-│   ├── sentiment_model.joblib
-│   └── tfidf_vectorizer.joblib
-├── sentiment_tool.py
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## ▶️ How to Use
 
