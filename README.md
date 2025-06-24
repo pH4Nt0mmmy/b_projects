@@ -33,7 +33,7 @@ This is **my first machine learning project from scratch** where I trained my ow
 ---
 
 ## 🛠️ Installation
-* You have to download the dataset
+* You have to download the dataset but there are some files are missing so please check the links too
   
 ### 1. Clone this repository
 
@@ -97,7 +97,9 @@ pip install -r requirements.txt
 ---
 
 # Links for datasets
-
+ * https://www.kaggle.com/datasets/kazanova/sentiment140
+ * https://components.one/datasets/all-the-news-2-news-articles-dataset
+ * https://www.kaggle.com/datasets/yogeshchary/financial-news-dataset
 ---
 
 ## 🧠 What I Learned
